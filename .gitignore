@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+logs/
+*.log
+
+Data/raw_sales.csv
+Data/transformed_sales.csv
+Data/retail.db
