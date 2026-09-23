@@ -10,3 +10,4 @@ Data/transformed_sales.csv
 Data/retail.db
 
 config/airflow.cfg
+.env
