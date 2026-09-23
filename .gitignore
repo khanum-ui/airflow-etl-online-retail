@@ -8,3 +8,5 @@ logs/
 Data/raw_sales.csv
 Data/transformed_sales.csv
 Data/retail.db
+
+config/airflow.cfg
